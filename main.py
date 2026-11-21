@@ -9,9 +9,9 @@ import os
 
 TEXT = (
     "A thousand urgent things, and then this: a tide coming in over smooth "
-    "stones, one slow wave at a time, in no hurry at all. The moon has "
-    "taken the night shift, and the sea will keep the rhythm, patient as "
-    "ever, until you drift with it."
+    "stones, one slow wave at a time. The moon has taken the night shift, "
+    "and the sea will keep the rhythm, patient as ever, until you drift "
+    "with it."
 )
 
 
